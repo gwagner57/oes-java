@@ -1,5 +1,5 @@
 # OESjava
-OESjava is the Java implementation of the Object Event Simulation (OES) core simulators OES Core 0-2, developed by Yevhenii Samorodov for his Master thesis [Object Event Simulation of Activity Networks with Java and AnyLogic](https://gwagner57.github.io/oes/Java/Master-Thesis-Yevhenii-Samorodov-2021.pdf).
+OESjava is the Java implementation of the Object Event Simulation (OES) core simulators OES Core 0-2, developed by Yevhenii Samorodov for his Master thesis [Object Event Simulation of Activity Networks with Java and AnyLogic](https://github.com/gwagner57/oes/blob/master/docs/Java/Master-Thesis-Yevhenii-Samorodov-2021.pdf).
 
 The minimal version of an OES simulator is *OES Core 0*,
 supporting models with (global) model variables and functions, object types, event types, and simple simulation experiments. 
